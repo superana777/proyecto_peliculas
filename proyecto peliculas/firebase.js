@@ -16,7 +16,7 @@
     measurementId: "G-HRG2Y83H9X"
   };
 
-  // Initialize Firebase
+  // Initialize Firebase.
   const app = initializeApp(firebaseConfig);
   const db = getFirestore(app);
 

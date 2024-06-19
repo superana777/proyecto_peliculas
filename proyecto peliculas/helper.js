@@ -17,7 +17,7 @@ const verificar = (id) => {
                     `<span class="badge bg-danger">Las contratación son hasta la fecha de hoy</span>`
             }
         }
-        }
+    }
     }
 
 const limpiar = () => {

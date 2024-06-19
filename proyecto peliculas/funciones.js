@@ -49,7 +49,7 @@ window.addEventListener('DOMContentLoaded', () => {
             <td>${item.duracion}</td>
             <td>${item.sinopsis}</td>
             <td nowrap>
-                <button class="btn btn-warning" id="${doc.id}">Editar</button>
+                <button class="btn btn-warning" id="${doc.id}">Editar </button>
                 <button class="btn btn-danger" id="${doc.id}">Eliminar</button>
             </td>
         </tr>`
